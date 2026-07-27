@@ -61,3 +61,13 @@ Example insights:
 - Data visualisation
 - Operational performance analysis
 - Business insight generation
+
+## Dashboard Preview
+
+### Overview
+
+![Dashboard Overview](dashboard-overview.png)
+
+### Shift Performance
+
+![Shift Performance](shift-performance.png)
